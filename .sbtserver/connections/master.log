@@ -1,0 +1,34 @@
+New log file opened at Wed Nov 23 15:44:36 GMT 2016 by 15561@damyan.arch.scalefocus
+Taking next connection to: 37821
+New client attempting to connect on port: 41100-37821
+  Address = /10.0.1.10:37821
+This client on port 41100 has uuid c400a510-c3cb-40f6-9501-660c6e008dff configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-c400a510-c3cb-40f6-9501-660c6e008dff
+Taking next connection to: 37821
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 37821
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 37821
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 37821
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 37821
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 37821
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 37821
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 37821
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 37821
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 37821
